@@ -1,4 +1,7 @@
 # Ceas LED Matrix cu Vreme
+![Version](https://img.shields.io/badge/version-4.04.2025-blue)
+![Arduino](https://img.shields.io/badge/ESP8266-orange.svg)
+![hacs](https://img.shields.io/badge/matrixLED7219-brightgreen.svg)
 
 Acest proiect afișează ora, data și vremea dupa oras pe un afișaj LED Matrix folosind ESP8266.
 
@@ -23,7 +26,9 @@ Acest proiect afișează ora, data și vremea dupa oras pe un afișaj LED Matrix
 - Conexiune la rețea WiFi
 
 ## Biblioteci necesare
-- ESP8266WiFi
-- ArduinoJson
+- ESP8266WiFi at version 1.0
+- Matrix LED7219
+- ArduinoJson at version 6.21.2
+- WiFiUdp
 - NTPClient
 - SPI
