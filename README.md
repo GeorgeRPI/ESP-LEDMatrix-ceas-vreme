@@ -1,7 +1,7 @@
 # Ceas LED Matrix cu Vreme
 ![Version](https://img.shields.io/badge/version-4.04.2025-blue)
 ![Arduino](https://img.shields.io/badge/ESP-8266-orange.svg)
-![hacs](https://img.shields.io/badge/matrix-LED7219-brightgreen.svg)
+![Arduino](https://img.shields.io/badge/matrix-LED7219-brightgreen.svg)
 
 Acest proiect afișează ora, data și vremea dupa oras pe un afișaj LED Matrix folosind ESP8266.
 
