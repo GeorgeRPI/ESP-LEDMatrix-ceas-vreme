@@ -6,18 +6,18 @@
 Acest proiect afișează ora, data și vremea dupa oras pe un afișaj LED Matrix folosind ESP8266.
 
 ## Caracteristici
-- Afișare ora în format 24h
-- Afișare data și vreme
-    - temeratura
-    - temperatura resimtita
-    - umiditatea
-    - presiune
-    - vant
-- Se poate alege orasul
+- Afișare data si oră în format 24h
+- Afișază vremea:
+  - temperatura
+  - temperatura resimtită
+  - umiditatea
+  - presiune
+  - vant
+- Se poate alege orașul
+- Vremea dupa oraș, sunt extrase de pe OpenWeather (Citiți descrierea API OpenWeather pentru mai multe informații)
 - Actualizează ora de la serverul NTP
 - Ajustează pentru fusul orar (UTC+2 sau UTC+3)
-- Vremea dupa oras sunt extrase de pe OpenWeather (Citiți descrierea API OpenWeather pentru mai multe informații)
-- Control automat al afișajului (se oprește noaptea la ora setata)
+- Control automat al afișajului (se oprește si porneste la ora setata)
 - Conexiune la WiFi și sincronizare NTP
 
 ## Componente necesare
