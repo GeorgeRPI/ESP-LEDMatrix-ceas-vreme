@@ -16,7 +16,7 @@ Acest proiect afișează ora, data și vremea dupa oras pe un afișaj LED Matrix
 - Se poate alege orașul
 - Vremea dupa oraș, sunt extrase de pe OpenWeather (Citiți descrierea API OpenWeather pentru mai multe informații)
 - Actualizează ora de la serverul NTP
-- Ajustează pentru fusul orar (UTC+2 sau UTC+3)
+- Ajustează pentru fusul orar (UTC+2 sau UTC+3 pentru Romania)
 - Control automat al afișajului (se oprește si porneste la ora setata)
 - Conexiune la WiFi și sincronizare NTP
 
