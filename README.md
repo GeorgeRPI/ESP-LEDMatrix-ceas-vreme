@@ -18,7 +18,7 @@ Acest proiect afișează ora, data și vremea dupa oras pe un afișaj LED Matrix
 - Actualizează ora de la serverul NTP
 - Ajustează pentru fusul orar (UTC+2 sau UTC+3 pentru Romania)
 - Control automat al afișajului (se oprește si porneste la ora setata)
-- Conexiune la WiFi și sincronizare NTP
+- Conexiune la WiFi
 
 ## Componente necesare
 - ESP8266 (NodeMCU sau Wemos D1)
@@ -26,9 +26,9 @@ Acest proiect afișează ora, data și vremea dupa oras pe un afișaj LED Matrix
 - Conexiune la rețea WiFi
 
 ## Biblioteci necesare
-- ESP8266WiFi at version 1.0
+- ESP8266WiFi versiunea 1.0
 - Matrix LED7219
-- ArduinoJson at version 6.21.2
+- ArduinoJson versiunea 6.21.2
 - WiFiUdp
 - NTPClient
 - SPI
